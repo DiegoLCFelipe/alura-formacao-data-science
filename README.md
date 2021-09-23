@@ -6,9 +6,9 @@ Na formação em Data Science da Alura desenvolvi técnicas de análises de dado
 Apresenta os conceitos iniciais de Data Science utilizando um conjunto de dados do mundo real. Nesse primeiro módulo fomos apresentados a análise exploratória utilizando a linguagem de programação Python através das bibliotecas: Seaborn, Matplotlib, Pandas e Scipy. Também foram introduzidos alguns conceitos básicos de estatísticas. 
 
 <ul> 
-  <li> Data Science: Primeiros Passos
+  <li>  <a href="/Módulo 1 - Começando com Data Science/curso-data-science-primeiros-passos">Data Science: Primeiros Passos</a>
   <li> Python Pandas: Tratando e Analisando Dados
-  <li> Estatísticas com Python parte 1: Frequências e Medidas
+  <li> Estatísticas com Python parte 1: Frequências e MedidasS
   <li> Estatísticas com Python parte 2: Probabilidade e Amostragem
 </ul>
 
