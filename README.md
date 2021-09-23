@@ -7,8 +7,8 @@ Apresenta os conceitos iniciais de Data Science utilizando um conjunto de dados 
 
 <ul> 
   <li>  <a href="/Módulo 1 - Começando com Data Science/curso-data-science-primeiros-passos">Data Science: Primeiros Passos</a>
-  <li> Python Pandas: Tratando e Analisando Dados
-  <li> Estatísticas com Python parte 1: Frequências e MedidasS
+  <li>  <a href="/Módulo 1 - Começando com Data Science/curso-python-pandas-tratando-e-analisando-dados">Python Pandas: Tratando e Analisando Dados</a>
+  <li>  <a href="/Módulo 1 - Começando com Data Science/curso-de-estatistica-parte-1-frequencias-e-medidas">Estatísticas com Python parte 1: Frequências e Medidas</a>
   <li> Estatísticas com Python parte 2: Probabilidade e Amostragem
 </ul>
 
