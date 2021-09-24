@@ -17,8 +17,8 @@ Apresenta os conceitos iniciais de Data Science utilizando um conjunto de dados 
 Nessa módulo foram apresentadas técnicas de Regressão Linear para demonstrar os impactos de algumas variáveis e criar modelos que auxiliam na previsão de resultados. 
 
 <ul> 
-  <li> Regressão Linear: Testando Relações e Prevendo Resultados
-  <li> Regressão Linear: Técnicas Avançadas de Modelagem
+  <li>  <a href="/Módulo 2 - Modelo de Data Science/curso-regressao-linear-tecnicas-avancadas-de-modelagem">Regressão Linear: Testando Relações e Prevendo Resultados</a>
+  <li>  <a href="/Módulo 2 - Modelo de Data Science/curso-regressao-linear-testando-relacoes-e-prevendo-resultados">Regressão Linear: Técnicas Avançadas de Modelagem</a>
 </ul>
 
 ## Módulo 3 - Visualização de Dados
