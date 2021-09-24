@@ -32,8 +32,8 @@ Nessa módulo foram apresentadas técnicas de Regressão Linear para demonstrar 
 ## Módulo 4 - Testes com Data Science
 
 <ul> 
-  <li> Data Science: Introdução a Testes Estatísticos com Python
-  <li> Introdução à Experimentação: Análise de Experimentos
+  <li> <a href="/Módulo 4 - Testes com Data Science/curso-data-science-introducao-a-testes-estatisticos-com-python">Data Science: Introdução a Testes Estatísticos com Python</a>
+  <li> <a href="/Módulo 4 - Testes com Data Science/curso-introducao-a-experimentacao-analise-de-experimentos">Introdução à Experimentação: Análise de Experimentos</a>
 </ul>
 
 ## Módulo 5 - Aplicando Data Science
