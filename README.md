@@ -26,7 +26,7 @@ Nessa módulo foram apresentadas técnicas de Regressão Linear para demonstrar 
 <ul> 
   <li> Data Visualization parte 1: Introdução ao Design de Gráficos 
   <li> Data Visualization parte 2: Escolhendo o Melhor Gráfico
-  <li> Data Visualization: Criação de gráficos com o Matplotlib
+  <li> <a href="/Módulo 3 - Visualização de Dados/curso-data-visualization-matplotlib">Data Visualization: Criação de gráficos com o Matplotlib</a>
 </ul>
 
 ## Módulo 4 - Testes com Data Science
